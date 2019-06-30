@@ -2,8 +2,8 @@
 //  LockOwnerType.swift
 //  RxSwift
 //
-//  Created by Krunoslav Zaher on 10/25/15.
-//  Copyright © 2015 Krunoslav Zaher. All rights reserved.
+//  Created by Steven Kraus on 10/25/15.
+//  Copyright © 2015 Steven Kraus. All rights reserved.
 //
 
 protocol LockOwnerType : class, Lock {
