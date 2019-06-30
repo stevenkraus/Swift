@@ -2,8 +2,8 @@
 //  Bag+Rx.swift
 //  RxSwift
 //
-//  Created by Krunoslav Zaher on 10/19/16.
-//  Copyright © 2016 Krunoslav Zaher. All rights reserved.
+//  Created by Steven Kraus on 10/19/16.
+//  Copyright © 2016 Steven Kraus. All rights reserved.
 //
 
 
