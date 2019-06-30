@@ -2,8 +2,8 @@
 //  Lock.swift
 //  RxSwift
 //
-//  Created by Krunoslav Zaher on 3/31/15.
-//  Copyright © 2015 Krunoslav Zaher. All rights reserved.
+//  Created by Steven Kraus on 3/31/15.
+//  Copyright © 2015 Steven Kraus. All rights reserved.
 //
 
 protocol Lock {
